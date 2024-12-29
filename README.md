@@ -3,6 +3,9 @@ Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-det
 
 ![image](https://github.com/user-attachments/assets/b398ef9d-4a8f-4de9-93d6-8e80a96cd66a)
 
+
+Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+
 Input Features:
 
 id: Unique identifier for each transaction
