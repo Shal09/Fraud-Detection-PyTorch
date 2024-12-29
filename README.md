@@ -9,6 +9,7 @@ V1-V28: Anonymized features representing various transaction attributes (e.g., t
 Amount: The transaction amount
 
 Output Label:
+
 Class 0.0 (Non-fraudulent transactions): These are normal, legitimate transactions that are not flagged as fraudulent.
 
 Class 1.0 (Fraudulent transactions): These are transactions identified as fraudulent and flagged by the system.
