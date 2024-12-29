@@ -1,10 +1,12 @@
 # Fraud-Detection-PyTorch
-Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+Project: Smart Fraud Detection System using PyTorch
 
 ![image](https://github.com/user-attachments/assets/b398ef9d-4a8f-4de9-93d6-8e80a96cd66a)
 
 
 Dataset : https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+
+The fraud detection model was evaluated for its performance on a dataset of 113,726 instances.
 
 Input Features:
 
