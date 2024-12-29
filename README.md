@@ -10,6 +10,7 @@ Amount: The transaction amount
 
 Output Label:
 Class 0.0 (Non-fraudulent transactions): These are normal, legitimate transactions that are not flagged as fraudulent.
+
 Class 1.0 (Fraudulent transactions): These are transactions identified as fraudulent and flagged by the system.
 
 The model demonstrates high precision, recall, and F1-score for both classes, along with an impressive overall accuracy of 98%. This ensures that the model is effective in detecting fraudulent transactions while minimizing false positives and false negatives.
