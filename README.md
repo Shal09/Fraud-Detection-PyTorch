@@ -76,3 +76,12 @@ Precision: 98%
 Recall: 98%
 
 F1-Score: 98%
+
+**Performance Highlights**
+
+High Precision (98-99%): The model is very reliable in predicting the correct labels, minimizing false positives.
+
+High Recall (98-99%): It correctly identifies almost all actual positives, minimizing false negatives.
+
+F1-Score (98%): Balances precision and recall effectively.
+
