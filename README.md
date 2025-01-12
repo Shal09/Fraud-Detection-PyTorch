@@ -21,3 +21,58 @@ Class 0.0 (Non-fraudulent transactions): These are normal, legitimate transactio
 Class 1.0 (Fraudulent transactions): These are transactions identified as fraudulent and flagged by the system.
 
 The model demonstrates high precision, recall, and F1-score for both classes, along with an impressive overall accuracy of 98%. This ensures that the model is effective in detecting fraudulent transactions while minimizing false positives and false negatives.
+
+
+**Confusion Matrix Insights**
+
+True Negatives (TN): 55,932
+
+False Positives (FP): 818
+
+False Negatives (FN): 1,156
+
+True Positives (TP): 55,820
+
+Observations:
+
+The model demonstrates a high accuracy in both classes with minimal misclassification.
+
+The count of false positives and false negatives is relatively small compared to the true positives and true negatives.
+
+**Classification Report Summary**
+
+Class 0 (Negative Class):
+
+Precision: 98%
+
+Recall: 99%
+
+F1-Score: 98%
+
+Class 1 (Positive Class):
+
+Precision: 99%
+
+Recall: 98%
+
+F1-Score: 98%
+
+Overall Metrics:
+
+Accuracy: 98%
+
+Macro Average:
+
+Precision: 98%
+
+Recall: 98%
+
+F1-Score: 98%
+
+Weighted Average:
+
+Precision: 98%
+
+Recall: 98%
+
+F1-Score: 98%
